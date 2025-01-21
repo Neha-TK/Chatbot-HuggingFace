@@ -1,1 +1,6 @@
-streamlit PyPDF2 langchain sentence-transformers scikit-learn numpy
+streamlit 
+PyPDF2 
+langchain 
+sentence-transformers 
+scikit-learn 
+numpy
